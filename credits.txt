@@ -1,13 +1,11 @@
-Paint's Worlds
+Developers & Helpers
 
-Credits
-
-
-
-
-Developers
 Paint Pong
 Fungus
 Raw Zebra
 Mario
 Sackboy
+
+
+Testers
+
