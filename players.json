@@ -1,17 +1,17 @@
 {
   "4X0Uc7qyQVypPbkX": {
-    "hadAdmin": 1,
-    "hasCreator": 1,
-    "isBanned": 0
+    "hadAdmin": true,
+    "hasCreator": true,
+    "isBanned": false
   },
   "Xp03NduRRwkh6XvD": {
-    "hadAdmin": 1,
-    "hasCreator": 1,
-    "isBanned": 0
+    "hadAdmin": true,
+    "hasCreator": true,
+    "isBanned": false
   },
   "V33wsFOONALtnUgh": {
-    "hadAdmin": 1,
-    "hasCreator": 1,
-    "isBanned": 0
+    "hadAdmin": true,
+    "hasCreator": true,
+    "isBanned": false
   }
 }
