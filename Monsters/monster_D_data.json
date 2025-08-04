@@ -1,0 +1,13 @@
+{
+  "name": "Watember",
+  "id": "monster_D",
+  "element": "D",
+  "singing": true,
+  "movable": true,
+  "flying": true,
+  "breedTime": "00:00:01:00",
+  "size": {
+    "x": 2,
+    "y": 2
+  }
+}
