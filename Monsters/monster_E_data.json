@@ -1,0 +1,13 @@
+{
+  "name": "Snowgly",
+  "id": "monster_E",
+  "element": "E",
+  "singing": true,
+  "movable": true,
+  "flying": false,
+  "breedTime": "00:00:02:00",
+  "size": {
+    "x": 2,
+    "y": 2
+  }
+}
