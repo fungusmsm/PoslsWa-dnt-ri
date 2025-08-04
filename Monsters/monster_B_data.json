@@ -1,0 +1,13 @@
+{
+  "name": "Potbelly",
+  "id": "monster_B",
+  "element": "B",
+  "singing": true,
+  "movable": true,
+  "flying": false,
+  "breedTime": "00:02:00:00",
+  "size": {
+    "x": 2,
+    "y": 2
+  }
+}
