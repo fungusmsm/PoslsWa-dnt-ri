@@ -1,0 +1,13 @@
+{
+  "name": "Tenta'gh",
+  "id": "monster_G",
+  "element": "G",
+  "singing": true,
+  "movable": true,
+  "flying": false,
+  "breedTime": "00:02:00:00",
+  "size": {
+    "x": 2,
+    "y": 2
+  }
+}
