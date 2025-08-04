@@ -1,7 +1,7 @@
 {
-  "name": "Tenta'gh",
-  "id": "monster_G",
-  "element": "G",
+  "name": "Fluoress",
+  "id": "monster_W",
+  "element": "W",
   "singing": true,
   "movable": true,
   "flying": false,
