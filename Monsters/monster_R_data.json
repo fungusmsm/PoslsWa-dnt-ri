@@ -1,0 +1,13 @@
+{
+  "name": "Psy-Looger",
+  "id": "monster_R",
+  "element": "R",
+  "singing": true,
+  "movable": true,
+  "flying": false,
+  "breedTime": "00:03:00:00",
+  "size": {
+    "x": 2,
+    "y": 2
+  }
+}
