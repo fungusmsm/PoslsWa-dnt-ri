@@ -1,0 +1,13 @@
+{
+  "name": "Tweedle",
+  "id": "monster_A",
+  "elements": "A",
+  "singing": true,
+  "movable": true,
+  "flying": true,
+  "breedTime": "00:00:00:00",
+  "size": {
+    "x": 2,
+    "y": 2
+  }
+}
