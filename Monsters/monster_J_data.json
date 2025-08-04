@@ -1,0 +1,13 @@
+{
+  "name": "Grumpyre",
+  "id": "monster_J",
+  "element": "J",
+  "singing": true,
+  "movable": true,
+  "flying": true,
+  "breedTime": "01:12:00:00",
+  "size": {
+    "x": 2,
+    "y": 2
+  }
+}
