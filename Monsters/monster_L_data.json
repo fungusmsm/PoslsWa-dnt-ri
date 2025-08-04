@@ -1,0 +1,13 @@
+{
+  "name": "Jeeode",
+  "id": "monster_L",
+  "element": "L",
+  "singing": true,
+  "movable": true,
+  "flying": false,
+  "breedTime": "01:12:00:00",
+  "size": {
+    "x": 2,
+    "y": 2
+  }
+}
