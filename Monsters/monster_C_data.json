@@ -1,7 +1,7 @@
 {
   "name": "Noggin",
-  "id": "monster_B",
-  "element": "B",
+  "id": "monster_C",
+  "element": "C",
   "singing": true,
   "movable": true,
   "flying": false,
