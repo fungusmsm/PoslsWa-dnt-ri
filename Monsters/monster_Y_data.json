@@ -1,0 +1,13 @@
+{
+  "name": "Fluecong",
+  "id": "monster_Y",
+  "element": "Y",
+  "singing": true,
+  "movable": true,
+  "flying": true,
+  "breedTime": "00:04:00:00",
+  "size": {
+    "x": 2,
+    "y": 2
+  }
+}
