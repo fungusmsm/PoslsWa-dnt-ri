@@ -1,0 +1,13 @@
+{
+  "name": "Reebro",
+  "id": "monster_K",
+  "element": "K",
+  "singing": true,
+  "movable": true,
+  "flying": false,
+  "breedTime": "01:12:00:00",
+  "size": {
+    "x": 2,
+    "y": 2
+  }
+}
