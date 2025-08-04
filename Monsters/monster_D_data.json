@@ -4,7 +4,7 @@
   "element": "D",
   "singing": true,
   "movable": true,
-  "flying": true,
+  "flying": false,
   "breedTime": "00:00:01:00",
   "size": {
     "x": 1,
