@@ -1,0 +1,13 @@
+{
+  "name": "Humbug",
+  "id": "monster_M",
+  "element": "M",
+  "singing": true,
+  "movable": true,
+  "flying": false,
+  "breedTime": "01:12:00:00",
+  "size": {
+    "x": 2,
+    "y": 2
+  }
+}
