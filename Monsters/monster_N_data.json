@@ -1,0 +1,13 @@
+{
+  "name": "Kayna",
+  "id": "monster_N",
+  "element": "N",
+  "singing": true,
+  "movable": true,
+  "flying": false,
+  "breedTime": "00:07:00:00",
+  "size": {
+    "x": 2,
+    "y": 2
+  }
+}
