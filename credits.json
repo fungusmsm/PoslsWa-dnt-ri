@@ -1,7 +1,7 @@
 {
   "Title": "Credits",
   "Sections": [
-        {
+    {
       "Subtitle": "Lead Developers",
       "Body": "Paint Pong|Fungus"
     },
@@ -9,21 +9,21 @@
       "Subtitle": "Programming",
       "Body": "Fungus"
     },
-      {
-      "Subtitle": "Concepts"
+    {
+      "Subtitle": "Concepts",
       "Body": "Paint Pong|Mario|Fungus"
     },
-        {
+    {
       "Subtitle": "Music",
       "Body": "Paint Pong|Sackboy"
     },
-        {
+    {
       "Subtitle": "Vocals",
       "Body": "Paint Pong|Raw Zebra|Wubbazt|Hugo11"
     },
-        {
+    {
       "Subtitle": "Testers",
       "Body": "LoonJoob|TidesDoesArt|MSMMike|PyroCreates"
-    },
+    }
   ]
 }
